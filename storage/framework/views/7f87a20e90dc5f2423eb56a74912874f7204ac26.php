@@ -1,0 +1,1 @@
+<img src="/storage/images/profile-images/users/<?php echo e($imgName); ?>" class="rounded-circle" alt="user-image"/><?php /**PATH C:\laragon\www\bycom\resources\views/admin/users/_gambar.blade.php ENDPATH**/ ?>

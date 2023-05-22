@@ -1,0 +1,2 @@
+<a class="btn btn-warning btn-edit" href="<?php echo e('user/'.$user->id.'/edit'); ?>" data-id="<?php echo e($user->id); ?>">Edit</a>
+<a class="btn btn-danger btn-delete" href="<?php echo e('user/'.$user->id); ?>">Delete</a><?php /**PATH C:\laragon\www\bycom\resources\views/admin/users/_aksi.blade.php ENDPATH**/ ?>

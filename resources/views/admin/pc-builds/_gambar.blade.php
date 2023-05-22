@@ -1,0 +1,1 @@
+<img class="img-thumbnail" src="/storage/images/build-recommendations/{{ $imgName }}" alt="cpu-image"/>

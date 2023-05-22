@@ -1,0 +1,14 @@
+a:5:{s:6:"_token";s:40:"n23VGYGAe9D327zaY3BfPdfhoMYkoC4Q7DeB6Cfj";s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:9:"_previous";a:1:{s:3:"url";s:133:"http://127.0.0.1:8000/storage/images/pc-components/psu/Cooler%20Master%20MWE%20Gold%201250%20V2%2080+%20Gold%20-%20Full%20Modular.png";}s:50:"login_web_59ba36addc2b2f9401580f014c7f58ea4e30989d";i:15;s:4:"cpus";O:8:"stdClass":13:{s:2:"id";i:2;s:4:"name";s:20:"Intel Core i7-12700K";s:5:"price";i:7438000;s:3:"url";s:34:"https://tokopedia.link/FbOAmT0qbwb";s:5:"image";s:24:"Intel Core i7-12700K.jpg";s:11:"cpuSocketId";i:7;s:9:"coreCount";i:12;s:9:"coreClock";s:8:"3.60 GHz";s:10:"boostClock";s:8:"5.00 GHz";s:3:"tdp";i:190;s:17:"integratedGraphic";s:22:"Intel UHD Graphics 770";s:11:"description";s:487:"Total Cores : 12
+# of Performance-cores : 8
+# of Efficient-cores : 4
+Total Threads : 20
+Max Turbo Frequency : 5.00 GHz
+Intel® Turbo Boost Max Technology : 3.0 Frequency ‡ 5.00 GHz
+Performance-core Max Turbo Frequency : 4.90 GHz
+Efficient-core Max Turbo Frequency : 3.80 GHz
+Performance-core Base Frequency : 3.60 GHz
+Efficient-core Base Frequency : 2.70 GHz
+Cache : 25 MB Intel® Smart Cache
+Total L2 Cache : 12 MB
+Processor Base Power : 125 W
+Maximum Turbo Power : 190 W";s:14:"formattedPrice";s:12:"Rp 7.438.000";}}

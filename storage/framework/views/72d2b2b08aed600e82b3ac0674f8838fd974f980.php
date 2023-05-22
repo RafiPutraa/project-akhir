@@ -1,0 +1,1 @@
+<img class="img-thumbnail" src="/storage/images/pc-components/<?php echo e($imgName); ?>" alt="cpu-image"/><?php /**PATH C:\laragon\www\bycom\resources\views/admin/pc-components/_gambar.blade.php ENDPATH**/ ?>

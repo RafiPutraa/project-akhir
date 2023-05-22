@@ -1,0 +1,2 @@
+<a class="btn btn-warning btn-edit" href="<?php echo e($actionUrl.'/edit'); ?>">Edit</a>
+<a class="btn btn-danger btn-delete" href="<?php echo e($actionUrl); ?>">Delete</a><?php /**PATH C:\laragon\www\bycom\resources\views/admin/pc-components/_aksi.blade.php ENDPATH**/ ?>

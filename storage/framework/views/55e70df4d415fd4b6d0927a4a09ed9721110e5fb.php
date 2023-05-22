@@ -1,0 +1,1 @@
+<a href="<?php echo e(url('rakitanku/'.$code)); ?>" target="_blank"><?php echo e($code); ?> </a><?php /**PATH C:\laragon\www\bycom\resources\views/admin/pc-builds/user-build/_link.blade.php ENDPATH**/ ?>

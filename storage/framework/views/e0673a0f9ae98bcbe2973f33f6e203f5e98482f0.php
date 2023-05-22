@@ -1,0 +1,1 @@
+<a href="<?php echo e($linkUrl); ?>" target="_blank"><?php echo e($linkUrl); ?> </a><?php /**PATH C:\laragon\www\bycom\resources\views/admin/pc-builds/_link.blade.php ENDPATH**/ ?>
